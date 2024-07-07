@@ -1,0 +1,14 @@
+#连接到的互通服务端ip/url
+URL: ws://superlink.tblstudio.cn:24013
+
+# 告知互通服务端此服务器的名称 注: 不可与其他服务器重复
+server_Name: Bukkit
+
+# 连接到频道密码
+Token: ChannelToken
+
+# 连接到频道名称 default为默认
+ChannelName: default
+
+# 消息格式
+format: §a[%%serverName%%<%%playerName%%>] §r%%mess%%
