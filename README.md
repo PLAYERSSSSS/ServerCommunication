@@ -1,0 +1,2 @@
+# ServerCommunication
+一个用于让Java版Minecraft玩家能够与网易我的世界玩家聊天等功能的插件
