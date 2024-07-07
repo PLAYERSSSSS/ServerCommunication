@@ -1,6 +1,0 @@
-name: serverPassageway
-version: '${project.version}'
-main: org.example.passageway.serverpassageway.ServerPassageway
-api-version: '1.16'
-authors: [Liu]
-description: 用于连接服服的插件
