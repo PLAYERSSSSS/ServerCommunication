@@ -1,6 +1,6 @@
  /*
   * Created on 2024-1-10
-  * File name ParticleString.java
+  * File name StringU.java
   * aim expand the function of string message
   */
  package com.api.Utils.String;
