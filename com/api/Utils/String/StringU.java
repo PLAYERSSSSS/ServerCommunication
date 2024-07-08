@@ -26,7 +26,7 @@
       * @param map  字符串中的变量的集合
       */
      public static String f_Strings(String text, Map<String, String> map) {
-         String[] str = text.concat("P").split("%%");
+         String[] str = text.concat("\n").split("%%");
          if (str.length % 2 != 0) {
              for (int i = 0; i < str.length - 1; i++) {
                  if (i % 2 != 0) {
